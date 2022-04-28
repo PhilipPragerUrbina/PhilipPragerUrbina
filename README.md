@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilipPragerUrbina
 - 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning to write great c++ code. I also dabble in Angular.
+- 🌱 I’m currently learning to write great c++ and Java code. I also dabble in Angular and Linux.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: Email or Discord
 
